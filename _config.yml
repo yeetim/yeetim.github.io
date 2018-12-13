@@ -78,3 +78,5 @@ service-worker: true
 # Friends
 friends: [
 ]
+
+theme: jekyll-theme-minimal
