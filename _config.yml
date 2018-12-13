@@ -79,4 +79,3 @@ service-worker: true
 friends: [
 ]
 
-theme: jekyll-theme-minimal
