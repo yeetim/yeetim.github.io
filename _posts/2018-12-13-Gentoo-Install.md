@@ -4,7 +4,6 @@ title: 		Gentoo Install
 subtitle: 	gentoo install
 date:		2018-12-13
 author:		Tim
-header-img: 	img/post-bg-2015.jpg
 catalog: true
 tags:
     - gentoo
